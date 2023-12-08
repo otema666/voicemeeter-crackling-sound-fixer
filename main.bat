@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title Voicemeeter auido fixer
+title Voicemeeter audio fixer
 set PID=
 set "PROCESS=audiodg.exe"
 set "AFFINITY=1"
